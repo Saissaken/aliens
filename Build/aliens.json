@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "aliens",
+"productVersion": "0.1",
+"dataUrl": "aliens.data.unityweb",
+"wasmCodeUrl": "aliens.wasm.code.unityweb",
+"wasmFrameworkUrl": "aliens.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
